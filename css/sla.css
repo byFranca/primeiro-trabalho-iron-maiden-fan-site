@@ -330,6 +330,15 @@ main.pedra {
     box-shadow: none;
 }
 
+.btn-tube {
+    background: #c40707;
+}
+
+.btn-tube:hover {
+    background: #810404;
+    box-shadow: 0 4px 16px rgba(185, 29, 29, 0.582);
+}
+
 /* PAGINA ALBUM */
 .album-page {
     margin: 0 auto;
